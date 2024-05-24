@@ -89,7 +89,17 @@
 
 <h3>𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝚻𝚵𝐂𝚮 Stats</h3>
 
-![𝐌𝐄𝐇𝐌𝐄𝐃𝐈-𝐌𝐃 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mehmedichayo17&repo=Mehmedi&show_owner=true&theme=dark)
+[MEHMEDI TECH BIO]
+
+Name: 𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝐂𝚮𝚫𝐘𝚯 
+
+ Age: 24 years 
+
+Occupation: A Professional Writer in an Amateur Of Google Software Engineering 
+
+Country: Kenya 🇰🇪 
+
+Religion: Islam ( Muslim) ☪️
 
 
     

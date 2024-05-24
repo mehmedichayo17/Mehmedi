@@ -187,7 +187,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
  [𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝚻𝚵𝐂𝚮💖](https://wa.me/254721367216) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Venocybertech) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/NHCZC5DSOEUXB1) and [officialchuimsela](https://wa.me/+260769355624) thanks for helps 💖
 
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
+ ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/KsixrNss4OH9QGBD3cuk8g)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -207,7 +207,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 <p align="center">
   <a href="https://github.com/mehmedichayo17/Mehmedi">
-    <img alt="mehmedi docs" height="300" src="https://telegra.ph/file/2e43cbf41d08e9b67f5aa.mp4">
+    <img alt="mehmedi docs" height="300" src="https://telegra.ph/file/6ec0b97e78594c7bccb0b.jpg">
   </a>
 </p>
     

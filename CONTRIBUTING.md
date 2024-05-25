@@ -5,6 +5,6 @@
 -----------------------------------------------------------------
 
 
-# VENOCYBER MD
+# 𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝚻𝚵𝐂𝚮
 
-You can send anything via VODACOM Mpesa number 0749614269 <b>JASTIN ASHERY MTEWA</b>
+You can send anything via VODACOM Mpesa number 0721367216 <b>MUHAMUDI ABDI OMAR</b>

@@ -1,0 +1,7 @@
+FROM quay.io/sampandey001/secktor
+RUN git clone https://github.com/mehmedichayo17/Mehmedi /root/mehmedichayo17
+WORKDIR /root/mehmedichayo17
+RUN npm install
+EXPOSE 8000
+CMD ["npm","start" ] 
+# POWERD BY 𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝚻𝚵𝐂𝚮

@@ -93,11 +93,11 @@
 
 Name: 𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝐂𝚮𝚫𝐘𝚯 
 
- Age: 24 years 
+ Age: 25 years 
 
 Occupation: A Professional Writer in an Amateur Of Google Software Engineering 
 
-Country: Kenya 🇰🇪 
+Country: Kenya,Isiolo,Sericho 🇰🇪 
 
 Religion: Islam ( Muslim) ☪️
 
@@ -108,9 +108,9 @@ Religion: Islam ( Muslim) ☪️
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://mehmedimd-9700a8fc9c87.herokuapp.com/qr) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://bwm-xmd-scanner-s211.onrender.com/) or server 2 qr code
     <br>
-<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://bwm-xmd-scanner-s211.onrender.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2.  [`PARING CODE`](https://mehmedimd-9700a8fc9c87.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
 <a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
@@ -153,7 +153,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *𝐌𝐄𝐇𝐌𝐄𝐃𝐈-𝐌𝐃 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use 𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝚻𝚵𝐂𝚮 at your own risk by keeping this warning in mind.*
-- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/mehmedichayo17/Mehmedi)
+- [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fmehmedichayo17%2FNORMAL-BOT)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
